@@ -1,0 +1,15 @@
+{
+  "num_classes": 5,
+  "class_names": [
+    "dumplings",
+    "fried_rice",
+    "kung_pao_chicken",
+    "mapo_tofu",
+    "sweet_and_sour_pork"
+  ],
+  "num_train_samples": 1159,
+  "num_val_samples": 247,
+  "num_test_samples": 254,
+  "best_val_acc": 0.8906882591093117,
+  "checkpoint_path": "scraped_food_data\\outputs\\best_model.pth"
+}
