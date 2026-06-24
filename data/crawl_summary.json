@@ -1,0 +1,74 @@
+{
+  "categories": [
+    {
+      "valid_images": 143,
+      "invalid_removed": 0,
+      "duplicate_removed": 0,
+      "slug": "kung_pao_chicken",
+      "display_name": "宫保鸡丁",
+      "target_count": 500,
+      "current_count": 143,
+      "keywords": [
+        "宫保鸡丁 菜品",
+        "kung pao chicken dish",
+        "宫保鸡丁 美食"
+      ]
+    },
+    {
+      "valid_images": 142,
+      "invalid_removed": 0,
+      "duplicate_removed": 1,
+      "slug": "mapo_tofu",
+      "display_name": "麻婆豆腐",
+      "target_count": 500,
+      "current_count": 142,
+      "keywords": [
+        "麻婆豆腐 菜品",
+        "mapo tofu dish",
+        "麻婆豆腐 美食"
+      ]
+    },
+    {
+      "valid_images": 165,
+      "invalid_removed": 0,
+      "duplicate_removed": 0,
+      "slug": "dumplings",
+      "display_name": "饺子",
+      "target_count": 500,
+      "current_count": 165,
+      "keywords": [
+        "饺子 菜品",
+        "dumplings chinese food",
+        "水饺 美食"
+      ]
+    },
+    {
+      "valid_images": 205,
+      "invalid_removed": 0,
+      "duplicate_removed": 2,
+      "slug": "fried_rice",
+      "display_name": "炒饭",
+      "target_count": 500,
+      "current_count": 205,
+      "keywords": [
+        "炒饭 菜品",
+        "fried rice dish",
+        "蛋炒饭 美食"
+      ]
+    },
+    {
+      "valid_images": 179,
+      "invalid_removed": 0,
+      "duplicate_removed": 0,
+      "slug": "sweet_and_sour_pork",
+      "display_name": "糖醋里脊",
+      "target_count": 500,
+      "current_count": 179,
+      "keywords": [
+        "糖醋里脊 菜品",
+        "sweet and sour pork dish",
+        "糖醋里脊 美食"
+      ]
+    }
+  ]
+}

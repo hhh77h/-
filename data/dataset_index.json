@@ -1,0 +1,112 @@
+{
+  "dataset_root": "E:\\深度学习课设\\scraped_food_data",
+  "raw_root": "E:\\深度学习课设\\scraped_food_data\\raw",
+  "split_root": "E:\\深度学习课设\\scraped_food_data\\split",
+  "classes": [
+    {
+      "slug": "kung_pao_chicken",
+      "display_name": "宫保鸡丁",
+      "keywords": [
+        "宫保鸡丁 菜品",
+        "kung pao chicken dish",
+        "宫保鸡丁 美食"
+      ],
+      "raw_count": 143,
+      "split_counts": {
+        "train": 100,
+        "val": 21,
+        "test": 22
+      },
+      "paths": {
+        "raw": "E:\\深度学习课设\\scraped_food_data\\raw\\kung_pao_chicken",
+        "train": "E:\\深度学习课设\\scraped_food_data\\split\\train\\kung_pao_chicken",
+        "val": "E:\\深度学习课设\\scraped_food_data\\split\\val\\kung_pao_chicken",
+        "test": "E:\\深度学习课设\\scraped_food_data\\split\\test\\kung_pao_chicken"
+      }
+    },
+    {
+      "slug": "mapo_tofu",
+      "display_name": "麻婆豆腐",
+      "keywords": [
+        "麻婆豆腐 菜品",
+        "mapo tofu dish",
+        "麻婆豆腐 美食"
+      ],
+      "raw_count": 142,
+      "split_counts": {
+        "train": 99,
+        "val": 21,
+        "test": 22
+      },
+      "paths": {
+        "raw": "E:\\深度学习课设\\scraped_food_data\\raw\\mapo_tofu",
+        "train": "E:\\深度学习课设\\scraped_food_data\\split\\train\\mapo_tofu",
+        "val": "E:\\深度学习课设\\scraped_food_data\\split\\val\\mapo_tofu",
+        "test": "E:\\深度学习课设\\scraped_food_data\\split\\test\\mapo_tofu"
+      }
+    },
+    {
+      "slug": "dumplings",
+      "display_name": "饺子",
+      "keywords": [
+        "饺子 菜品",
+        "dumplings chinese food",
+        "水饺 美食"
+      ],
+      "raw_count": 165,
+      "split_counts": {
+        "train": 115,
+        "val": 24,
+        "test": 26
+      },
+      "paths": {
+        "raw": "E:\\深度学习课设\\scraped_food_data\\raw\\dumplings",
+        "train": "E:\\深度学习课设\\scraped_food_data\\split\\train\\dumplings",
+        "val": "E:\\深度学习课设\\scraped_food_data\\split\\val\\dumplings",
+        "test": "E:\\深度学习课设\\scraped_food_data\\split\\test\\dumplings"
+      }
+    },
+    {
+      "slug": "fried_rice",
+      "display_name": "炒饭",
+      "keywords": [
+        "炒饭 菜品",
+        "fried rice dish",
+        "蛋炒饭 美食"
+      ],
+      "raw_count": 205,
+      "split_counts": {
+        "train": 143,
+        "val": 30,
+        "test": 32
+      },
+      "paths": {
+        "raw": "E:\\深度学习课设\\scraped_food_data\\raw\\fried_rice",
+        "train": "E:\\深度学习课设\\scraped_food_data\\split\\train\\fried_rice",
+        "val": "E:\\深度学习课设\\scraped_food_data\\split\\val\\fried_rice",
+        "test": "E:\\深度学习课设\\scraped_food_data\\split\\test\\fried_rice"
+      }
+    },
+    {
+      "slug": "sweet_and_sour_pork",
+      "display_name": "糖醋里脊",
+      "keywords": [
+        "糖醋里脊 菜品",
+        "sweet and sour pork dish",
+        "糖醋里脊 美食"
+      ],
+      "raw_count": 179,
+      "split_counts": {
+        "train": 125,
+        "val": 26,
+        "test": 28
+      },
+      "paths": {
+        "raw": "E:\\深度学习课设\\scraped_food_data\\raw\\sweet_and_sour_pork",
+        "train": "E:\\深度学习课设\\scraped_food_data\\split\\train\\sweet_and_sour_pork",
+        "val": "E:\\深度学习课设\\scraped_food_data\\split\\val\\sweet_and_sour_pork",
+        "test": "E:\\深度学习课设\\scraped_food_data\\split\\test\\sweet_and_sour_pork"
+      }
+    }
+  ]
+}

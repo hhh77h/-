@@ -1,0 +1,27 @@
+{
+  "kung_pao_chicken": {
+    "train": 239,
+    "val": 51,
+    "test": 52
+  },
+  "mapo_tofu": {
+    "train": 222,
+    "val": 47,
+    "test": 49
+  },
+  "dumplings": {
+    "train": 257,
+    "val": 55,
+    "test": 56
+  },
+  "fried_rice": {
+    "train": 264,
+    "val": 56,
+    "test": 58
+  },
+  "sweet_and_sour_pork": {
+    "train": 177,
+    "val": 38,
+    "test": 39
+  }
+}
